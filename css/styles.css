@@ -1,0 +1,310 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #118C4E ;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#nav-list{
+   background: #1e90ff;
+}
+ #header-nav{
+  background-color:  #C63D0F;
+  border: 0;
+  border-radius: 0;
+}
+ #list>li>a{
+  display: block;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  text-decoration: none;
+text-transform: uppercase;
+   font-weight: bold;
+ }
+
+ #list>li>a:hover{
+  background: #D5DBDB;
+  color: #333;
+ }
+ img#logo{ 
+  width: 150px;
+  height: 150px;
+   margin: 5px 5px 5px 0;
+ }
+h1{
+   font-size: 1.6em;
+  font-style: #fff;
+  margin-top: 40px;
+  color: #fff;
+  font-family: ' Aileron', serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+ }
+ 
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1.5px solid black;
+}
+
+ .button-label {
+    display: inline-block;
+    float: left;
+    font-weight: bold;
+    line-height: 14px;
+    padding-right: 10px;
+}
+
+    .button-bars {
+    display: inline-block;
+    float: left;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+div#collapsable-nav{
+  float: left;
+  margin-top: 0px;
+  margin-left: 60px;
+}
+#team span{
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-left: 150px;
+}
+#team1{
+  background: url('../images/LOGO DESIGN OF BPL-1.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#team2{
+  background: url('../images/LOGO DESIGN OF BPL-2.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#team3{
+  background: url('../images/LOGO DESIGN OF BPL-3.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#team4{
+  background: url('../images/LOGO DESIGN OF BPL-4.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#team5{
+  background: url('../images/LOGO DESIGN OF BPL-5.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#team6{
+  background: url('../images/LOGO DESIGN OF BPL-6.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+
+
+
+
+#team1 span, #team2 span, #team3 span, #team4 span, #team5 span, #team6 span,#ali span{
+  position: absolute;
+  bottom:  0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: skyblue;
+  opacity: .8;
+}
+
+
+
+
+#team1, #team2, #team3, #team4, #team5, #team6,#ali{
+ height: 250px;
+
+ margin-bottom: 15px;
+ position: relative;
+ border: 2px solid #3F0C1F;
+ overflow: hidden;
+}
+#team1:hover, #team2:hover, #team3:hover{
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+@media (min-width: 1200px){
+
+   .container .jumbotron {
+
+     background: url('../images/BPL -1200.png') no-repeat;
+    height: 675px;
+ background-size: 100% 100%
+  }
+
+   span#details{
+  position: absolute;
+  width: 100%;
+  font-size: 1.1em;
+  color: #fff;
+    text-transform: uppercase;
+  font-weight: bold;
+}
+
+span#Captain{
+  position: absolute;
+  width: 100%;
+  font-size: 1.3em;
+  color: #fff;
+text-transform: uppercase;
+ font-family: 'Lora', serif;
+ font-weight: bold;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+      .container .jumbotron {
+
+     background: url('../images/BPL -992.png') no-repeat;
+        
+      height: 675px;
+  }
+ span#details{
+  position: absolute;
+  width: 100%;
+  font-size: .8em;
+  color: #fff;
+    text-transform: uppercase;
+
+}
+span#Captain{
+  position: absolute;
+  width: 100%;
+  font-size: 1.1em;
+  color: #fff;
+text-transform: uppercase;
+ font-family: 'Lora', serif;
+ font-weight: bold;
+}
+
+}
+
+@media (min-width: 766px) and (max-width: 991px){
+      .container .jumbotron {
+
+     background: url('../images/BPL -992.png') no-repeat;
+         height: 475px;
+     background-size: 100% 100%
+  }
+
+  span#details{
+  position: absolute;
+  width: 100%;
+  font-size: .7em;
+  color: #fff;
+    text-transform: uppercase;
+  font-weight: bold;
+}
+span#Captain{
+  position: absolute;
+  width: 100%;
+  font-size: .9em;
+  color: #fff;
+text-transform: uppercase;
+ font-family: 'Lora', serif;
+ font-weight: bold;
+}
+}
+
+@media (max-width: 767px){/* mobile view */
+
+h1{
+   font-size: .9em;
+  font-style: #fff;
+  margin-top: 40px;
+    margin-left: 0px;
+  color: #fff;
+ font-family: ' Aileron', serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+ }
+ 
+ img#logo{
+  width: 110px;
+  height: 110px;
+   margin: 5px 5px 5px 0;
+ }
+
+ #team span{
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-left: 50px;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 18px;
+  }
+  #collapsable-nav a span { /* Collapsed nav menu glyph */
+    font-size: 1em;
+    margin-right: 5px;
+  }
+
+   .container .jumbotron{
+    margin-top: 10px;
+    padding: 0;
+    box-shadow: 0 0 50px #3F0C1F
+    border: 2px solid #3F0C1F;
+  }
+
+
+
+
+
+#team1, #team2, #team3, #team4, #team5, #team6, #ali{
+ height: 150px;
+ margin-bottom: 15px;
+ position: relative;
+ border: 2px solid #3F0C1F;
+ overflow: hidden;
+}
+
+
+#team1 span, #team2 span, #team3 span, #team4 span, #team5 span, #team6 span, #ali span{
+  position: absolute;
+  bottom:  0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: .7em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+}
+
+span#details{
+  position: absolute;
+  width: 100%;
+  font-size: .8em;
+  color: #fff;
+    text-transform: uppercase;
+  font-weight: bold;
+}
+ span#Captain{
+  position: absolute;
+  width: 100%;
+  font-size: .8em;
+  color: #fff;
+text-transform: uppercase;
+
+ font-weight: bold;
+}
+ }

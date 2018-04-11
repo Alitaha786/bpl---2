@@ -1,0 +1,290 @@
+p.line{
+   line-height: 1.9;
+}
+
+#heading span{
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-left: 250px;
+}
+
+
+#p1{
+  background: url('../images/photo/ABDEALI BADHSHAH.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p2{
+  background: url('../images/photo/ADNAN ALBURHAN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p3{
+  background: url('../images/photo/AKHTER MOTORWALA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p4{
+  background: url('../images/photo/ALI AMIR .jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p5{
+  background: url('../images/photo/ALI AMIR COMPLEX.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p6{
+  background: url('../images/photo/ALI ASGHER DALDAWALA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p7{
+  background: url('../images/photo/ALI ASGHER JABALPUR.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p8{
+  background: url('../images/photo/ALI TAHA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p9{
+  background: url('../images/photo/Alakmer.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p10{
+  background: url('../images/photo/DANISH.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p11{
+  background: url('../images/photo/HAMZA LOOM.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p12{
+  background: url('../images/photo/HAMZA POONWALA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p13{
+  background: url('../images/photo/HUSAIN MINI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p14{
+  background: url('../images/photo/HUZEFA BHAI STUDIO.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p15{
+  background: url('../images/photo/ISMAIL BHAI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p16{
+  background: url('../images/photo/KHUZEMA BHAI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p17{
+  background: url('../images/photo/KHUZEMA DARGAH.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p18
+{
+  background: url('../images/photo/MINAJ HUSAIN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p19{
+  background: url('../images/photo/MURTAZA BHAI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p20{
+  background: url('../images/photo/MUSTUFA BARTAN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}#p21{
+  background: url('../images/photo/MUSTUFA DARGAH.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p22{
+  background: url('../images/photo/MUSTUFA KHAN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p23{
+  background: url('../images/photo/photo-11.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+
+#p24{
+  background: url('../images/photo/photo-12.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+
+#p25{
+  background: url('../images/photo/photo-13.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p26{
+  background: url('../images/photo/photo-22.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p27{
+  background: url('../images/photo/photo-23.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p28{
+  background: url('../images/photo/photo-32.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p29{
+  background: url('../images/photo/photo-34.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p30{
+  background: url('../images/photo/photo-36.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p31{
+  background: url('../images/photo/photo-37.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p32{
+  background: url('../images/photo/QAID KHAN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p33{
+  background: url('../images/photo/QUTUB BHAI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p34{
+  background: url('../images/photo/RAHIL KHAN.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p35{
+  background: url('../images/photo/SHABBIR FOKNAR.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p36{
+  background: url('../images/photo/TAHA POONWALA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p37{
+  background: url('../images/photo/TAHER MOTORWALA.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p38{
+  background: url('../images/photo/TAYYEB BHAI.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p39{
+  background: url('../images/photo/YUSUF MANILAL.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p40{
+  background: url('../images/photo/YUSUF SADIQ.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p41{
+  background: url('../images/photo/ZAINU .jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+#p42{
+  background: url('../images/photo/photo-42.jpg') no-repeat;
+  background-position: center;
+     background-size: 100% 100%
+}
+
+
+
+
+#p1 span,#p2 span,#p3 span,#p4 span,#p5 span,#p6 span,#p7 span,#p8 span,#p9 span,#p10 span,#p11 span,#p12 span,#p13 span,#p14 span,#p15 span,#p16 span,#p17 span,#p18 span,#p19 span,#p20 span,#p21 span,#p22 span,#p23 span,#p24 span,#p25 span,#p26 span,#p27 span,#p28 span,#p29 span,#p30 span,#p31 span,#p32 span,#p33 span,#p34 span,#p35 span,#p36 span,#p37 span,#p38 span,#p39 span,#p40 span,#p41 span,#p42 span{
+  position: absolute;
+  bottom:   0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: skyblue;
+  opacity: .8;
+}
+
+#p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9,#p10,#p11,#p12,#p13,#p14,#p15,#p16,#p17,#p18,#p19,#p20,#p21,#p22,#p23,#p24,#p25,#p26,#p27,#p28,#p29,#p30,#p31,#p32,#p33,#p34,#p35,#p36,#p37,#p38,#p39,#p40,#p41,#p42{
+  height: 200px;
+
+ margin-bottom: 15px;
+ position: relative;
+ border: 2px solid #3F0C1F;
+ overflow: hidden;
+}
+
+@media (max-width: 767px){/* mobile view */
+
+p{
+  font-size: .8em;
+}
+
+
+#heading span{
+  text-align: center;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-left: 120px;
+}
+
+
+#p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9,#p10,#p11,#p12,#p13,#p14,#p15,#p16,#p17,#p18,#p19,#p20,#p21,#p22,#p23,#p24,#p25,#p26,#p27,#p28,#p29,#p30,#p31,#p32,#p33,#p34,#p35,#p36,#p37,#p38,#p39,#p40,#p41,#p42{
+
+  height: 150px;
+ margin-bottom: 15px;
+ position: relative;
+ border: 2px solid #3F0C1F;
+ overflow: hidden;
+}
+
+#p1 span,#p2 span,#p3 span,#p4 span,#p5 span,#p6 span,#p7 span,#p8 span,#p9 span,#p10 span,#p11 span,#p12 span,#p13 span,#p14 span,#p15 span,#p16 span,#p17 span,#p18 span,#p19 span,#p20 span,#p21 span,#p22 span,#p23 span,#p24 span,#p25 span,#p26 span,#p27 span,#p28 span,#p29 span,#p30 span,#p31 span,#p32 span,#p33 span,#p34 span,#p35 span,#p36 span,#p37 span,#p38 span,#p39 span,#p40 span,#p41 span,#p42 span{
+
+  position: absolute;
+  bottom:  0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: .6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+}
+}
